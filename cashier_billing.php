@@ -105,6 +105,7 @@
 <link rel='stylesheet' href='css_/admin.css'>
 <link rel='stylesheet' href='css_/gas.css'>
 <link rel='stylesheet' href='css_/custom.css'>
+<link rel='stylesheet' href='css_/billing.css'>
 
 </head>
 
@@ -319,13 +320,20 @@
 
 					<div class='row'>
 
+						<div id='myModal' class='modal_ii'>
 
+						    <div class='modal-content'>
+						        <span class='close'>&times;</span>
+						        <p>Added item zero amount</p>
+						    </div>
+
+						</div>
 
 						<div class='col-sm-6'>
 
 							<h4><b>Purchased Service/Items</b></h4>
 
-							<table class='table table-striped' style='border:2px solid #5e78a3'>
+							<table class='table table-striped cart' style='border:2px solid #5e78a3'>
 								<thead style='color:white;background-color:#5e78a3' >
 									      <tr>
 									      	<th>Product</th>
@@ -628,6 +636,6 @@
 
 
 </body>
-
+<script src='js/billing.js'></script>
 
 </html>
