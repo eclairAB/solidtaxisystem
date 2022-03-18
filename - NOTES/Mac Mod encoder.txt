@@ -1,0 +1,15 @@
+en-driver.php
+line 70	change to en-driver.php
+line 122	comment "Action"	
+line 225	comment echo set
+
+driver_edit.php
+line 10	remove is logged in as ISENCODER
+
+driver_details.php
+line 11	remove is logged in as ISENCODER
+
+
+en-taxi.php
+line 68	change to en-taxi.php
+line 133	comment "Action"

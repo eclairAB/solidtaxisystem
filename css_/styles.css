@@ -1,0 +1,11 @@
+.form-group-others {
+    display: none;
+}
+
+.form-group-others.active {
+    display: block;
+}
+
+.daily-report-form {
+    display: inline-block;
+}

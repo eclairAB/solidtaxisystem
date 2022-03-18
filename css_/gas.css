@@ -1,0 +1,25 @@
+
+
+
+#body_div{
+	padding: 20px;
+}
+
+
+#_buttons{
+	padding: 10px;
+}
+
+#selected_table{
+	background-color: #3b3982;
+}
+
+#search_box{
+	font-size: 20px;
+}
+
+#search_label,
+.big-text{
+	font-size: 25px;
+}
+

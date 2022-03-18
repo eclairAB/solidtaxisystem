@@ -1,0 +1,42 @@
+.table-striped>tbody>tr:nth-child(odd)>td, 
+.table-striped>tbody>tr:nth-child(odd)>th {
+   background-color: #c3f8fa; // Choose your own color here
+ }
+
+
+ .table-striped > tbody > tr > th {
+  
+  }
+
+ .table-striped > tfoot > tr > td {
+
+ }
+
+ .table-striped > tfoot > tr > th {
+
+ }
+
+
+ .table-striped > thead > tr > td{
+   color: white;
+ } 
+
+
+ .table-striped > thead {
+   border: 1px solid #cyan; //head border color
+
+}
+
+ th {
+    background-color: #19194f; //table head background color
+    color: green;
+} 
+
+ .table-striped > thead {
+ 
+    color: white;
+}
+
+    .btn-black{background-color:#000;color: #FFF;}
+    .btn-black:hover{color: #FFF;}
+
