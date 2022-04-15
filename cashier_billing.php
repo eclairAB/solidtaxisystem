@@ -105,7 +105,7 @@
 <link rel='stylesheet' href='css_/admin.css'>
 <link rel='stylesheet' href='css_/gas.css'>
 <link rel='stylesheet' href='css_/custom.css'>
-<link rel='stylesheet' href='css_/billing.css'>
+<link rel='stylesheet' href='css/billing.css'>
 
 </head>
 
@@ -324,7 +324,7 @@
 
 						    <div class='modal-content'>
 						        <span class='close'>&times;</span>
-						        <p>Added item zero amount</p>
+						        <p>Added item with zero amount</p>
 						    </div>
 
 						</div>

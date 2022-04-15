@@ -13,8 +13,8 @@ span.onclick = function() {
 }
 
 window.onclick = function(event) {
-  if (event.target == modal_ii) {
-    modal_ii.style.display = "none";
+  if (event.target == modal) {
+    modal.style.display = "none";
   }
 }
 
@@ -24,9 +24,10 @@ function cashierBillingOnZeroes() {
 		const price = element.children[1].innerHTML
 		if (parseFloat(price) <= 0) {
 			console.log(123)
-			modal_ii.style.display = "block";
+			modal.style.display = "block";
 		}
 	}
 }
 
 cashierBillingOnZeroes()
+console.log(123, modal)
